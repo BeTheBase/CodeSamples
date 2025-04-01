@@ -1,0 +1,14 @@
+C:\Users\basco\source\repos\DialogueSystemShowCaseProject\bin\Debug\net8.0\DialogueSystemShowCaseProject.deps.json
+C:\Users\basco\source\repos\DialogueSystemShowCaseProject\bin\Debug\net8.0\DialogueSystemShowCaseProject.runtimeconfig.json
+C:\Users\basco\source\repos\DialogueSystemShowCaseProject\bin\Debug\net8.0\DialogueSystemShowCaseProject.dll
+C:\Users\basco\source\repos\DialogueSystemShowCaseProject\bin\Debug\net8.0\DialogueSystemShowCaseProject.pdb
+C:\Users\basco\source\repos\DialogueSystemShowCaseProject\obj\Debug\net8.0\DialogueSystemShowCaseProject.csproj.AssemblyReference.cache
+C:\Users\basco\source\repos\DialogueSystemShowCaseProject\obj\Debug\net8.0\DialogueSystemShowCaseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basco\source\repos\DialogueSystemShowCaseProject\obj\Debug\net8.0\DialogueSystemShowCaseProject.AssemblyInfoInputs.cache
+C:\Users\basco\source\repos\DialogueSystemShowCaseProject\obj\Debug\net8.0\DialogueSystemShowCaseProject.AssemblyInfo.cs
+C:\Users\basco\source\repos\DialogueSystemShowCaseProject\obj\Debug\net8.0\DialogueSystemShowCaseProject.csproj.CoreCompileInputs.cache
+C:\Users\basco\source\repos\DialogueSystemShowCaseProject\obj\Debug\net8.0\DialogueSystemShowCaseProject.dll
+C:\Users\basco\source\repos\DialogueSystemShowCaseProject\obj\Debug\net8.0\refint\DialogueSystemShowCaseProject.dll
+C:\Users\basco\source\repos\DialogueSystemShowCaseProject\obj\Debug\net8.0\DialogueSystemShowCaseProject.pdb
+C:\Users\basco\source\repos\DialogueSystemShowCaseProject\obj\Debug\net8.0\DialogueSystemShowCaseProject.genruntimeconfig.cache
+C:\Users\basco\source\repos\DialogueSystemShowCaseProject\obj\Debug\net8.0\ref\DialogueSystemShowCaseProject.dll

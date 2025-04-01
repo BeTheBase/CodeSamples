@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 555ebe043d03f2c49a616b24ec2c0753, type: 3}
+  m_Name: IntroConceptArtData
+  m_EditorClassIdentifier: 
+  conceptArtImages:
+  - {fileID: 21300000, guid: e56dd1d765aa5d34698a4cc65ad5883e, type: 3}
+  - {fileID: 21300000, guid: 72713871bd9c6ad4c982c02f729579d2, type: 3}
+  - {fileID: 21300000, guid: 1ba986d15d9a47649b71c434bbe7bdef, type: 3}
+  - {fileID: 21300000, guid: 78e6b6f6a7888834e86ed9073cad4d3e, type: 3}
+  - {fileID: 21300000, guid: c16c2cea1970c07459040752d46d1cab, type: 3}
+  - {fileID: 21300000, guid: 7455b34c5d2369644b8f75164400180b, type: 3}

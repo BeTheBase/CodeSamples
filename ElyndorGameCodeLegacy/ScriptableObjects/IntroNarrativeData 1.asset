@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ac733b341d42ab47a9318e87ccd49b5, type: 3}
+  m_Name: IntroNarrativeData 1
+  m_EditorClassIdentifier: 
+  narrativeTexts:
+  - "\"For centuries, the Forest of Elyndor has stood, timeless\u2026 untouched by
+    the passage of time.\"\n"
+  - '"Its trees, older than any mortal kingdom, hum with ancient magic."
+
+'
+  - "\"Whispers of the forest's secrets float on every breeze, carried through the
+    leaves\u2026\"\n"
+  - '"But something is amiss."
+
+'
+  - '"The once vibrant heart of Elyndor has fallen into silence."
+
+'
+  - "\"The balance between nature and magic\u2026 is broken.\"\n"

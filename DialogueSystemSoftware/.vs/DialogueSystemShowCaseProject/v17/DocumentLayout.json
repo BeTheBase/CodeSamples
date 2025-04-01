@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\basco\\source\\repos\\ConsoleApp1\\InfraStartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|c:\\users\\basco\\source\\repos\\dialoguesystemshowcaseproject\\dialoguesystem.consoleapp\\consoledialogueui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|solutionrelative:dialoguesystem.consoleapp\\consoledialogueui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|c:\\users\\basco\\source\\repos\\dialoguesystemshowcaseproject\\dialogueservicetests\\jsondialoguerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|solutionrelative:dialogueservicetests\\jsondialoguerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|c:\\users\\basco\\source\\repos\\dialoguesystemshowcaseproject\\dialogueservicetests\\intconditionevaluatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|solutionrelative:dialogueservicetests\\intconditionevaluatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|c:\\users\\basco\\source\\repos\\dialoguesystemshowcaseproject\\dialogueservicetests\\dialoguetestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|solutionrelative:dialogueservicetests\\dialoguetestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|c:\\users\\basco\\source\\repos\\dialoguesystemshowcaseproject\\dialogueservicetests\\inmemoryplayerstatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|solutionrelative:dialogueservicetests\\inmemoryplayerstatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|c:\\users\\basco\\source\\repos\\dialoguesystemshowcaseproject\\dialogueservicetests\\dialogueservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|solutionrelative:dialogueservicetests\\dialogueservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|c:\\users\\basco\\source\\repos\\dialoguesystemshowcaseproject\\dialoguesystem.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|solutionrelative:dialoguesystem.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|c:\\users\\basco\\source\\repos\\dialoguesystemshowcaseproject\\dialoguesystem.consoleapp\\infrastartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|solutionrelative:dialoguesystem.consoleapp\\infrastartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|c:\\users\\basco\\source\\repos\\dialoguesystemshowcaseproject\\dialoguesystem.infra\\jsondialoguerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|solutionrelative:dialoguesystem.infra\\jsondialoguerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|c:\\users\\basco\\source\\repos\\dialoguesystemshowcaseproject\\dialoguesystem.core\\iconditionevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|solutionrelative:dialoguesystem.core\\iconditionevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|c:\\users\\basco\\source\\repos\\dialoguesystemshowcaseproject\\dialoguesystem.infra\\inmemoryplayerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|solutionrelative:dialoguesystem.infra\\inmemoryplayerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|c:\\users\\basco\\source\\repos\\dialoguesystemshowcaseproject\\dialoguesystem.infra\\intconditionevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|solutionrelative:dialoguesystem.infra\\intconditionevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|c:\\users\\basco\\source\\repos\\dialoguesystemshowcaseproject\\dialoguesystem.application\\dialogueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|solutionrelative:dialoguesystem.application\\dialogueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\basco\\AppData\\Local\\Temp\\d699e11a-15ab-428a-b797-55d43be0c2f0_DialogueSystem.FullSolution.zip.2f0\\InfraStartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|c:\\users\\basco\\source\\repos\\dialoguesystemshowcaseproject\\dialoguesystem.unityadapter\\unityadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF3398-1ADD-4A42-8882-1F1AF5A4219B}|DialogueSystemShowCaseProject.csproj|solutionrelative:dialoguesystem.unityadapter\\unityadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\basco\\source\\repos\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InfraStartup.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\ConsoleApp1\\InfraStartup.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\InfraStartup.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\ConsoleApp1\\InfraStartup.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\InfraStartup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:51:11.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:50:52.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonDialogueRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueServiceTests\\JsonDialogueRepositoryTests.cs",
+              "RelativeDocumentMoniker": "DialogueServiceTests\\JsonDialogueRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueServiceTests\\JsonDialogueRepositoryTests.cs",
+              "RelativeToolTip": "DialogueServiceTests\\JsonDialogueRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:48:05.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntConditionEvaluatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueServiceTests\\IntConditionEvaluatorTests.cs",
+              "RelativeDocumentMoniker": "DialogueServiceTests\\IntConditionEvaluatorTests.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueServiceTests\\IntConditionEvaluatorTests.cs",
+              "RelativeToolTip": "DialogueServiceTests\\IntConditionEvaluatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:48:04.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryPlayerStateTests.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueServiceTests\\InMemoryPlayerStateTests.cs",
+              "RelativeDocumentMoniker": "DialogueServiceTests\\InMemoryPlayerStateTests.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueServiceTests\\InMemoryPlayerStateTests.cs",
+              "RelativeToolTip": "DialogueServiceTests\\InMemoryPlayerStateTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:47:41.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DialogueTestContext.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueServiceTests\\DialogueTestContext.cs",
+              "RelativeDocumentMoniker": "DialogueServiceTests\\DialogueTestContext.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueServiceTests\\DialogueTestContext.cs",
+              "RelativeToolTip": "DialogueServiceTests\\DialogueTestContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:41:34.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IConditionEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.Core\\IConditionEvaluator.cs",
+              "RelativeDocumentMoniker": "DialogueSystem.Core\\IConditionEvaluator.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.Core\\IConditionEvaluator.cs",
+              "RelativeToolTip": "DialogueSystem.Core\\IConditionEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:40:02.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JsonDialogueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.Infra\\JsonDialogueRepository.cs",
+              "RelativeDocumentMoniker": "DialogueSystem.Infra\\JsonDialogueRepository.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.Infra\\JsonDialogueRepository.cs",
+              "RelativeToolTip": "DialogueSystem.Infra\\JsonDialogueRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:39:51.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DialogueServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueServiceTests\\DialogueServiceTests.cs",
+              "RelativeDocumentMoniker": "DialogueServiceTests\\DialogueServiceTests.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueServiceTests\\DialogueServiceTests.cs",
+              "RelativeToolTip": "DialogueServiceTests\\DialogueServiceTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:36:30.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IntConditionEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.Infra\\IntConditionEvaluator.cs",
+              "RelativeDocumentMoniker": "DialogueSystem.Infra\\IntConditionEvaluator.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.Infra\\IntConditionEvaluator.cs",
+              "RelativeToolTip": "DialogueSystem.Infra\\IntConditionEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:28:07.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InMemoryPlayerState.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.Infra\\InMemoryPlayerState.cs",
+              "RelativeDocumentMoniker": "DialogueSystem.Infra\\InMemoryPlayerState.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.Infra\\InMemoryPlayerState.cs",
+              "RelativeToolTip": "DialogueSystem.Infra\\InMemoryPlayerState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:28:05.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleDialogueUI.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.ConsoleApp\\ConsoleDialogueUI.cs",
+              "RelativeDocumentMoniker": "DialogueSystem.ConsoleApp\\ConsoleDialogueUI.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.ConsoleApp\\ConsoleDialogueUI.cs",
+              "RelativeToolTip": "DialogueSystem.ConsoleApp\\ConsoleDialogueUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:25:05.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DialogueService.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.Application\\DialogueService.cs",
+              "RelativeDocumentMoniker": "DialogueSystem.Application\\DialogueService.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.Application\\DialogueService.cs",
+              "RelativeToolTip": "DialogueSystem.Application\\DialogueService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:27:58.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InfraStartup.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.ConsoleApp\\InfraStartup.cs",
+              "RelativeDocumentMoniker": "DialogueSystem.ConsoleApp\\InfraStartup.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.ConsoleApp\\InfraStartup.cs",
+              "RelativeToolTip": "DialogueSystem.ConsoleApp\\InfraStartup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:25:02.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "DialogueSystem.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "DialogueSystem.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:24:59.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InfraStartup.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\AppData\\Local\\Temp\\d699e11a-15ab-428a-b797-55d43be0c2f0_DialogueSystem.FullSolution.zip.2f0\\InfraStartup.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\d699e11a-15ab-428a-b797-55d43be0c2f0_DialogueSystem.FullSolution.zip.2f0\\InfraStartup.cs",
+              "ToolTip": "C:\\Users\\basco\\AppData\\Local\\Temp\\d699e11a-15ab-428a-b797-55d43be0c2f0_DialogueSystem.FullSolution.zip.2f0\\InfraStartup.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\d699e11a-15ab-428a-b797-55d43be0c2f0_DialogueSystem.FullSolution.zip.2f0\\InfraStartup.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:23:23.299Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnityAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.UnityAdapter\\UnityAdapter.cs",
+              "RelativeDocumentMoniker": "DialogueSystem.UnityAdapter\\UnityAdapter.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\DialogueSystemShowCaseProject\\DialogueSystem.UnityAdapter\\UnityAdapter.cs",
+              "RelativeToolTip": "DialogueSystem.UnityAdapter\\UnityAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:14:53.248Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
