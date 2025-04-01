@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificationinfrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificationinfrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificationinfrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificationinfrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificationinfrastructure\\services\\certificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificationinfrastructure\\services\\certificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificationinfrastructure\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificationinfrastructure\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificatedomain\\interfaces\\icertificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificatedomain\\interfaces\\icertificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificationinfrastructure\\logging\\auditlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificationinfrastructure\\logging\\auditlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificationinfrastructure\\blobstorage\\azureblobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificationinfrastructure\\blobstorage\\azureblobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificationinfrastructure\\repositories\\certificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificationinfrastructure\\repositories\\certificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificatedomain\\interfaces\\icertificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificatedomain\\interfaces\\icertificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificatedomain\\interfaces\\icertificatereviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificatedomain\\interfaces\\icertificatereviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificatedomain\\enums\\certificatestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificatedomain\\enums\\certificatestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificatedomain\\interfaces\\iauditlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificatedomain\\interfaces\\iauditlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificatedomain\\interfaces\\iblobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificatedomain\\interfaces\\iblobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificatedomain\\interfaces\\icertificatetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificatedomain\\interfaces\\icertificatetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificatedomain\\models\\certificateupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificatedomain\\models\\certificateupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificatedomain\\models\\certificatetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificatedomain\\models\\certificatetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificatedomain\\models\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificatedomain\\models\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificationportal\\viewmodels\\certificatereviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificationportal\\viewmodels\\certificatereviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificationportal\\viewmodels\\certificateuploadviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificationportal\\viewmodels\\certificateuploadviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificationportal\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificationportal\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|c:\\users\\basco\\source\\repos\\2at_certificatrenregistratiesysteemvoortennet_basdekoningh\\tennet.certificationportal\\controllers\\certificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2ADBFB-3A73-438B-99EB-3787684D2798}|2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh.csproj|solutionrelative:tennet.certificationportal\\controllers\\certificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationInfrastructure\\appsettings.json",
+              "RelativeDocumentMoniker": "TenneT.CertificationInfrastructure\\appsettings.json",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationInfrastructure\\appsettings.json",
+              "RelativeToolTip": "TenneT.CertificationInfrastructure\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T09:44:51.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationInfrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificationInfrastructure\\Program.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationInfrastructure\\Program.cs",
+              "RelativeToolTip": "TenneT.CertificationInfrastructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:44:33.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CertificateService.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationInfrastructure\\Services\\CertificateService.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificationInfrastructure\\Services\\CertificateService.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationInfrastructure\\Services\\CertificateService.cs",
+              "RelativeToolTip": "TenneT.CertificationInfrastructure\\Services\\CertificateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:43:32.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationInfrastructure\\DbContext.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificationInfrastructure\\DbContext.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationInfrastructure\\DbContext.cs",
+              "RelativeToolTip": "TenneT.CertificationInfrastructure\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:41:24.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuditLogger.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationInfrastructure\\Logging\\AuditLogger.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificationInfrastructure\\Logging\\AuditLogger.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationInfrastructure\\Logging\\AuditLogger.cs",
+              "RelativeToolTip": "TenneT.CertificationInfrastructure\\Logging\\AuditLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:40:13.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AzureBlobStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationInfrastructure\\BlobStorage\\AzureBlobStorageService.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificationInfrastructure\\BlobStorage\\AzureBlobStorageService.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationInfrastructure\\BlobStorage\\AzureBlobStorageService.cs",
+              "RelativeToolTip": "TenneT.CertificationInfrastructure\\BlobStorage\\AzureBlobStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:39:37.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICertificateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Interfaces\\ICertificateRepository.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificateDomain\\Interfaces\\ICertificateRepository.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Interfaces\\ICertificateRepository.cs",
+              "RelativeToolTip": "TenneT.CertificateDomain\\Interfaces\\ICertificateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:38:56.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CertificateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationInfrastructure\\Repositories\\CertificateRepository.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificationInfrastructure\\Repositories\\CertificateRepository.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationInfrastructure\\Repositories\\CertificateRepository.cs",
+              "RelativeToolTip": "TenneT.CertificationInfrastructure\\Repositories\\CertificateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:37:52.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CertificateStatus.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Enums\\CertificateStatus.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificateDomain\\Enums\\CertificateStatus.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Enums\\CertificateStatus.cs",
+              "RelativeToolTip": "TenneT.CertificateDomain\\Enums\\CertificateStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:36:49.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuditLogger.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Interfaces\\IAuditLogger.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificateDomain\\Interfaces\\IAuditLogger.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Interfaces\\IAuditLogger.cs",
+              "RelativeToolTip": "TenneT.CertificateDomain\\Interfaces\\IAuditLogger.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:36:17.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBlobStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Interfaces\\IBlobStorageService.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificateDomain\\Interfaces\\IBlobStorageService.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Interfaces\\IBlobStorageService.cs",
+              "RelativeToolTip": "TenneT.CertificateDomain\\Interfaces\\IBlobStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:35:54.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICertificateTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Interfaces\\ICertificateTypeService.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificateDomain\\Interfaces\\ICertificateTypeService.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Interfaces\\ICertificateTypeService.cs",
+              "RelativeToolTip": "TenneT.CertificateDomain\\Interfaces\\ICertificateTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:35:29.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICertificateReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Interfaces\\ICertificateReviewService.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificateDomain\\Interfaces\\ICertificateReviewService.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Interfaces\\ICertificateReviewService.cs",
+              "RelativeToolTip": "TenneT.CertificateDomain\\Interfaces\\ICertificateReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:35:08.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICertificateService.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Interfaces\\ICertificateService.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificateDomain\\Interfaces\\ICertificateService.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Interfaces\\ICertificateService.cs",
+              "RelativeToolTip": "TenneT.CertificateDomain\\Interfaces\\ICertificateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:34:53.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CertificateUPload.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Models\\CertificateUPload.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificateDomain\\Models\\CertificateUPload.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Models\\CertificateUPload.cs",
+              "RelativeToolTip": "TenneT.CertificateDomain\\Models\\CertificateUPload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:34:03.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CertificateType.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Models\\CertificateType.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificateDomain\\Models\\CertificateType.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Models\\CertificateType.cs",
+              "RelativeToolTip": "TenneT.CertificateDomain\\Models\\CertificateType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:33:43.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Technician.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Models\\Technician.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificateDomain\\Models\\Technician.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificateDomain\\Models\\Technician.cs",
+              "RelativeToolTip": "TenneT.CertificateDomain\\Models\\Technician.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:33:33.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CertificateReviewViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationPortal\\ViewModels\\CertificateReviewViewModel.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificationPortal\\ViewModels\\CertificateReviewViewModel.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationPortal\\ViewModels\\CertificateReviewViewModel.cs",
+              "RelativeToolTip": "TenneT.CertificationPortal\\ViewModels\\CertificateReviewViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:32:14.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CertificateUploadViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationPortal\\ViewModels\\CertificateUploadViewModel.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificationPortal\\ViewModels\\CertificateUploadViewModel.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationPortal\\ViewModels\\CertificateUploadViewModel.cs",
+              "RelativeToolTip": "TenneT.CertificationPortal\\ViewModels\\CertificateUploadViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:32:05.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationPortal\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificationPortal\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationPortal\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "TenneT.CertificationPortal\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:31:20.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CertificateController.cs",
+              "DocumentMoniker": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationPortal\\Controllers\\CertificateController.cs",
+              "RelativeDocumentMoniker": "TenneT.CertificationPortal\\Controllers\\CertificateController.cs",
+              "ToolTip": "C:\\Users\\basco\\source\\repos\\2at_CertificatrenRegistratiesysteemvoorTenneT_Basdekoningh\\TenneT.CertificationPortal\\Controllers\\CertificateController.cs",
+              "RelativeToolTip": "TenneT.CertificationPortal\\Controllers\\CertificateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:31:10.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
