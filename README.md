@@ -1,157 +1,131 @@
-Casus developer
+🛠️ Certificate Management System – TenneT Offshore Case
 Situatieschets
-TenneT beheert offshore windmolenparken. De stroom van deze windmolens wordt bij
-offshore tussenstations “verzameld” en doorgesluisd naar het land. Elke dag moeten er
-werkzaamheden plaatsvinden op deze platforms, maar zowel deze werkzaamheden als
-de reis ernaartoe zijn niet zonder risico. TenneT stelt daarom strenge eisen aan de
-certificeringen waaraan monteurs moeten voldoen voordat ze naar zo’n platform toe
-mogen. Het systeem dat dit bijhoudt is gebouwd door 2at.
-Ons systeem registreert rollen en de bijbehorende certificaten. Dit omvat:
-▪ Een portaal waarin gebruikers zelf certificaten kunnen uploaden.
-▪ Een backend waarin medewerkers de ingediende informatie valideren.
-▪ Een extern systeem reeds goedgekeurde certificaten die beschikbaar zijn voor
-gebruik.
-Belangrijke aandachtspunten: automatisering, beveiliging en gegevensvalidatie.
+TenneT beheert offshore windmolenparken. De stroom die deze windmolens opwekken, wordt via offshore tussenstations verzameld en doorgestuurd naar het vasteland. Voor werkzaamheden op deze platforms gelden strikte veiligheidseisen. Monteurs moeten gecertificeerd zijn voordat ze toegang krijgen.
 
+2at heeft een systeem ontwikkeld dat deze certificeringsprocessen ondersteunt. Het systeem bestaat uit:
 
+📤 Een portaal waarin monteurs certificaten kunnen uploaden
 
-[User Story] #1 – Technician submits certificate via portal
+✅ Een backend waarin medewerkers de certificaten beoordelen
+
+🔄 Een externe API voor het ophalen van gevalideerde certificaten
+
+🔐 Belangrijke thema’s: automatisering, beveiliging en gegevensvalidatie
+
+📚 User Stories
+[1] Technician submits certificate via portal
 Title: Certificate upload form with Azure Blob integration
- Description:
- As a technician, I want to upload my certification (PDF) via a secure form so that it can be reviewed for offshore access.
+Description:
+Als technicus wil ik een certificaat (PDF) kunnen uploaden via een beveiligd formulier, zodat dit beoordeeld kan worden voor offshore toegang.
+
 Acceptance Criteria:
-Upload form accepts only .pdf files.
 
+Uploadformulier accepteert alleen .pdf-bestanden
 
-Technician must select certificate type (from dropdown).
+Certificaattype wordt geselecteerd via een dropdown
 
+Bestand wordt opgeslagen in Azure Blob Storage
 
-Uploaded file is stored via Azure Blob Storage.
+Er wordt een CertificateUpload entiteit aangemaakt met status Pending
 
-
-System creates CertificateUpload entity with status Pending.
-
-
-Upload result is visible to the technician via status history.
-
+Technicus ziet de uploadstatus via een statusoverzicht
 
 Technical Notes:
-ASP.NET Core MVC form with validation
 
+ASP.NET Core MVC met validatie
 
-Azure Blob Storage SDK for file handling
+Azure Blob Storage SDK
 
+CertificateService via Dependency Injection
 
-CertificateService injected via DI
-
-
-
-[User Story] #2 – Admin reviews uploaded certificate
+[2] Admin reviews uploaded certificate
 Title: Review and approval interface for certificate submissions
- Description:
- As an admin, I want to approve or reject submitted technician certificates so that only validated technicians gain access.
+Description:
+Als admin wil ik certificaten kunnen goedkeuren of afwijzen zodat alleen geverifieerde technici toegang krijgen tot offshore platforms.
+
 Acceptance Criteria:
-Admin panel lists all submissions with Pending status
 
+Admin panel toont alle uploads met status Pending
 
-Admin can approve or reject, with optional comments
+Admin kan goedkeuren of afwijzen met optionele opmerkingen
 
+Status verandert naar Approved of Rejected
 
-Status transitions to Approved or Rejected
+Vervaldatum wordt berekend op basis van certificaattype
 
-
-Expiry date is calculated on approval based on certificate type validity
-
-
-All actions are logged via AuditLogger
-
+Alle acties worden gelogd via AuditLogger
 
 Technical Notes:
-CertificateReviewService handles state changes
 
+CertificateReviewService voor statusbeheer
 
-Logging writes to audit log file or DB
+Logging naar logbestand of database
 
+AdminController voor UI en logica
 
-AdminController manages views and actions
-
-
-
-[User Story] #3 – Role-based certificate requirements
+[3] Role-based certificate requirements
 Title: Define role eligibility based on required certificates
- Description:
- As a system admin, I want to configure which certificates are required per role, so that the system can determine eligibility.
+Description:
+Als systeembeheerder wil ik per rol kunnen definiëren welke certificaten vereist zijn, zodat het systeem kan bepalen of iemand geschikt is.
+
 Acceptance Criteria:
-Create, update, delete roles
 
+Rollen aanmaken, bijwerken en verwijderen
 
-Define certificate requirements per role
+Certificaatvereisten per rol definiëren
 
+Systeem controleert of een technicus voldoet aan de vereisten
 
-Check eligibility of technician against a role
-
-
-System reports missing or expired certificates per role
-
+Rapportage van ontbrekende of verlopen certificaten per rol
 
 Technical Notes:
-Add Role, RoleCertificateRequirement models
 
+Nieuwe modellen: Role, RoleCertificateRequirement
 
-Eligibility check service (optional helper)
+Optioneel: EligibilityCheckService helper
 
-
-
-[User Story] #4 – External API for validated certificates
+[4] External API for validated certificates
 Title: Secure external API to retrieve approved certificates
- Description:
- As an external system, I want to request a list of approved technician certificates so that I can verify their validity.
+Description:
+Als extern systeem wil ik gevalideerde certificaten kunnen opvragen zodat ik de geldigheid kan controleren.
+
 Acceptance Criteria:
-REST endpoint: GET /api/certificates/approved?technicianId=...
 
+Endpoint: GET /api/certificates/approved?technicianId=...
 
-Returns JSON array of approved certificates
+JSON-response met certificaatgegevens
 
+Informatie bevat type, goedkeuringsdatum, vervaldatum en download-URL
 
-Each entry includes type, approval date, expiry date, and download URL
+Beveiligd via API Key of OAuth2
 
-
-Secured via API Key or OAuth2
-
-
-API fails gracefully on missing or unauthorized access
-
+Foutafhandeling bij ontbrekende of ongeautoriseerde toegang
 
 Technical Notes:
-CertificateQueryService fetches data
 
+CertificateQueryService voor data-opvraag
 
-SAS-token used for file download URLs
+SAS-tokens voor downloadbare bestanden
 
+API Key-validatie via custom middleware
 
-API Key validation via custom middleware
-
-
-
-[User Story] #5 – Automatic certificate expiration process
+[5] Automatic certificate expiration process
 Title: Background job to mark expired certificates
- Description:
- As the system, I want to periodically check for expired certificates and update their status so that outdated data is not shown as valid.
+Description:
+Het systeem controleert periodiek op verlopen certificaten en past hun status aan, zodat alleen geldige certificaten zichtbaar zijn.
+
 Acceptance Criteria:
-Background service runs every 6 hours
 
+Background job draait elke 6 uur
 
-Selects all Approved certificates past expiry
+Selecteert alle Approved certificaten met een vervallen datum
 
+Markeert deze als Expired
 
-Marks them as Expired
-
-
-Logs each status transition
-
+Elke statusovergang wordt gelogd
 
 Technical Notes:
-HostedService using IHostedService or BackgroundService
 
+HostedService via IHostedService of BackgroundService
 
-Uses CertificateRepository and logs with AuditLogger
+Gebruik van CertificateRepository en AuditLogger
